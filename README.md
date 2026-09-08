@@ -12,3 +12,6 @@ Bulk Updating: If a raw material is discontinued, users can find and replace it 
 Recycling Tracker: Compares how much recycled material is produced versus how much is needed, ensuring the factory never runs out of stock.
 
 Virtual Lab (Quality Prediction): Allows users to test new recipes digitally. It mathematically predicts if the final product will be strong enough, saving physical materials and lab testing time.
+
+⚠️ Confidentiality Note:
+Due to sensitive corporate information and data privacy policies, the actual production database containing real materials, recipes, and consumption metrics is not included in this public repository. The code is shared solely for portfolio and demonstration purposes.
